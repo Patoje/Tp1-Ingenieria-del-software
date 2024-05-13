@@ -1,2 +1,4 @@
 # Tp1-Ingenieria-del-software
-Tp Nico y Bracca
+Tp Ingenieria del software II, Validacion y codificacion. Integrantes: Heyde Patricio, Colazo Luca, Barreto Christian
+
+
